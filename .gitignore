@@ -1,0 +1,27 @@
+# 忽略
+*.classpath
+*.project
+*.prefs
+*/.settings/*
+*.externalToolBuilders/
+/target/*
+.idea
+*.iml
+*.data
+**.data
+web/web.iml
+designpattern/src/main/java/com/haha/designpattern/behavior/reschain/pipe/
+.DS_Store
+deploy/target/
+server/$/
+logs/
+server/log/
+.idea/*
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
